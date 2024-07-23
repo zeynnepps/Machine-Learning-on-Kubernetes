@@ -168,5 +168,7 @@ Use the GKE we created in Step 1.
     ```sh
     external-ip/apidocs
     ```
+<img width="468" alt="image" src="https://github.com/user-attachments/assets/a2cb7ca6-38fa-48e5-9ca0-c7baa03ae612">
+
 
 ---
